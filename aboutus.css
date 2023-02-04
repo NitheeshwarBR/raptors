@@ -1,0 +1,365 @@
+*{
+    margin:0;
+    border:0;
+    box-sizing:border-box;
+}
+body{
+    background-color: #060506;
+    overflow-x: hidden;
+}
+.aboutusnav{
+    overflow: hidden;
+}
+.title{
+    width:100%;
+    height:20vh;
+    margin-top: 10px;
+}
+#title-header1{
+    color:white;
+    margin-left: 15px;
+    font-size: 3vw;
+}
+#title-header2{
+    color: white;
+    margin-left:10vw;
+    font-size: 3vw;
+}
+#firstimg{
+    margin-left:1300px;
+    width:190px;
+    height:70px;
+    margin-top: -30px;
+    overflow-x: hidden;
+}
+.animation{
+    background-color: azure;
+    width:100%;
+    height:80vh;
+    overflow-x: hidden;
+}
+.subtitle{
+    width:65vw;
+    height:auto;
+    margin-left:20vw;
+    overflow-x: hidden;
+ 
+
+}
+#main{
+    color: white;
+    margin-left: 15vw;
+    font-size: 50px;
+    font-weight: 600;
+}
+.subtitle2{
+    display: flex;
+    margin-top:5vh ;
+    font-size: 18px;
+    font-weight: 500;
+    color:white;
+    
+}
+#sub{
+    text-align: center;
+}
+.members{
+   display: flex;
+    overflow: hidden;
+    margin-left: 3rem;
+    width:100%;
+    height:auto;
+    padding-top: 40px;
+    padding-left: 60px;
+}
+#members_section{
+    width:328px;
+    height:467.71px;
+    background: linear-gradient(0deg, rgba(129, 148, 166, 0.7) 5.38%, rgba(108, 122, 136, 0.392341) 24.18%, rgba(87, 97, 107, 0.112) 45.13%, rgba(87, 97, 107, 0.056) 78.43%);
+    border:2px solid rgba(129, 148, 166, 0.7);
+    border-radius:12.33px;
+    
+    
+}
+.person-imagediv{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.person_images{
+    margin-top:100px;
+}
+
+#name{
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 7vh;
+    text-align: center;
+    color: white;
+
+}
+#desc{
+   margin-top: 2vh;
+  text-align: center;
+    font-size: 
+    22px;
+    font-weight: 
+    500;
+    color: white;
+}
+
+#members_section2{
+    width:328px;
+    height:467.71px;
+    background: linear-gradient(0deg, rgba(129, 148, 166, 0.7) 5.38%, rgba(108, 122, 136, 0.392341) 24.18%, rgba(87, 97, 107, 0.112) 45.13%, rgba(87, 97, 107, 0.056) 78.43%);
+    border:2px solid rgba(129, 148, 166, 0.7);
+    border-radius:12.33px;
+   margin-left: 10vw;
+   
+    
+}
+.person-imagediv2{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.person_images2{
+    width:180px;
+    height:180px;
+    margin-top:100px;
+}
+
+#name2{
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 7vh;
+    text-align: center;
+    color: white;
+   
+
+}
+#desc2{
+   margin-top: 2vh;
+  text-align: center;
+    font-size: 
+    22px;
+    font-weight: 
+    500;
+    color: white;
+}
+#members_section3{
+    width:328px;
+    height:467.71px;
+    background: linear-gradient(0deg, rgba(129, 148, 166, 0.7) 5.38%, rgba(108, 122, 136, 0.392341) 24.18%, rgba(87, 97, 107, 0.112) 45.13%, rgba(87, 97, 107, 0.056) 78.43%);
+    border:2px solid rgba(129, 148, 166, 0.7);
+    border-radius:12.33px;
+   margin-left: 10vw;
+   
+    
+}
+.person-imagediv3{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.person_images3{
+    width: 180px;
+    height:180px;
+    margin-top:100px;
+}
+
+#name3{
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 7vh;
+    text-align: center;
+    color: white;
+
+}
+#desc3{
+   margin-top: 2vh;
+   text-align: center;
+    font-size: 
+    22px;
+    font-weight: 
+    500;
+    color: white;
+}
+#members_section4{
+    width:328px;
+    height:467.71px;
+    background: linear-gradient(0deg, rgba(129, 148, 166, 0.7) 5.38%, rgba(108, 122, 136, 0.392341) 24.18%, rgba(87, 97, 107, 0.112) 45.13%, rgba(87, 97, 107, 0.056) 78.43%);
+    border:2px solid rgba(129, 148, 166, 0.7);
+    border-radius:12.33px;
+    margin-left: 18vw;
+    margin-top: 75px;
+    
+    
+}
+.person-imagediv4{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.person_images4{
+    width:180px;
+    height:180px;
+    margin-top:100px;
+}
+
+#name4{
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 7vh;
+    text-align: center;
+    color: white;
+
+}
+#desc4{
+   margin-top: 2vh;
+    text-align: center;
+    font-size: 
+    22px;
+    font-weight: 
+    500;
+    color: white;
+}
+#members_section5{
+    width:328px;
+    height:467.71px;
+    background: linear-gradient(0deg, rgba(129, 148, 166, 0.7) 5.38%, rgba(108, 122, 136, 0.392341) 24.18%, rgba(87, 97, 107, 0.112) 45.13%, rgba(87, 97, 107, 0.056) 78.43%);
+    border:2px solid rgba(129, 148, 166, 0.7);
+    border-radius:12.33px;
+    margin-left: 58vw;
+    margin-top: -63vh;
+    
+}
+.person-imagediv5{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.person_images5{
+    width:180px;
+    height:180px;
+    margin-top:100px;
+}
+
+#name5{
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 7vh;
+   text-align: center;
+    color: white;
+
+}
+#desc5{
+   margin-top: 2vh;
+   text-align: center;
+    font-size: 
+    22px;
+    font-weight: 
+    500;
+    color: white;
+}
+#seperatediv{
+    height:150vh;
+}
+.description{
+    width:100%;
+    height:50vh;
+   
+}
+
+.text{
+    background-color: #3C454F;
+    width:50%;
+    height:50vh;
+    align-items: center;
+    padding-top: 28px;
+    padding-left: 48px;
+}
+#descheader{
+    margin-left: 35px;
+    font-size: 35px;
+    font-weight: 600;
+    color: white;
+    line-height: 49px;
+    word-spacing: 0.9vw;
+
+}
+.footer{
+    padding-left: 3rem;
+}
+#descpara{
+    margin-top: 35px;
+    font-size: 25px;
+    line-height: 150%;
+    font-weight: 600;
+    margin-left: 35px;
+    color: rgba(255, 255, 255, 0.83);
+    width:600px;
+    word-spacing: 0.3vw;
+    text-align: left;
+}
+#applynow{
+    margin-top: 29px;
+    border-radius: 25px;
+    border:2px solid black;
+    width:115px;
+    margin-left: 25px;
+    height:2rem;
+    background: radial-gradient(160% 169.32% at 49.88% 50%, rgba(25, 40, 57, 0.3) 0%, #DDE8F7 74.48%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+    color: white;
+    font-weight: 800;
+    font-size: 12px;
+  
+   text-align: center;
+}
+#applynow:active{
+    scale: 0.9;
+
+}
+.pic{
+    margin-left: 48.5vw;
+    margin-top: -51.79vh;
+}
+#footersimage{
+    margin-left: 36.5vw;
+    margin-top: 65vh;
+}
+.icons{
+    margin: 30px;
+    box-shadow: 3px 6px 4px -6px rgba(0, 0, 0, 0.12), 0px 8px 24px -4px rgba(24, 39, 75, 0.08);
+}
+.footernavigation{
+    margin-top: 25px;
+    justify-content: space-around;
+    padding-left: 33.5vw;
+}
+.finalfooter{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   background-color: #3C454F;
+   width:100%;
+   height:7vh;
+   padding-left: 25px;
+   padding-right: 25px;
+   margin-top: 20px;
+   
+
+}
+.tags{
+   color: white;
+    font-size: 20px;
+    background: linear-gradient(180deg, #FFFFFF 0%, #5E788D 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
